@@ -4,7 +4,7 @@ DIRECTORY = 'reports'
 NAME = 'OnePlus'
 CURRENCY = '₹'
 MIN_PRICE = '275'
-MAX_PRICE = '50000'
+MAX_PRICE = '100000'
 FILTERS = {
     'min': MIN_PRICE,
     'max': MAX_PRICE
