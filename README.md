@@ -1,5 +1,7 @@
-# PriceTracker-Amazon-
-Making a Amazon price Tracking script
+ PriceTracker-Amazon
+ ===================
+ 
+Making a Amazon price Tracking script 
 
 
 ## What i Learned
